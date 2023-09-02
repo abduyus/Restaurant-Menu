@@ -1,7 +1,0 @@
-[
-    {
-        "stmt": "ALTER TABLE restaurant_menu_items RENAME TO restaurant_menu_item;",
-        "header": [],
-        "rows": []
-    }
-]
